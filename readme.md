@@ -1,0 +1,1 @@
+#### this project is made with streamlit and in this project using python libraries like pandas,matplotlib,streamlit,plotly,seaborn i have created an interactive dashboard
